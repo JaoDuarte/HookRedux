@@ -20,4 +20,4 @@ Foi usado **Create React App**  e **Hook + Redux**, o que seria?
 
 #### Observação
 
-    Assim que você criar o seu **Create React App** , você deve instalar **react-redux** no CMD , e atenção que você esteja no diretório correto.
+   Assim que você criar o seu **Create React App** , você deve instalar **react-redux** no CMD , e atenção que você esteja no diretório correto.
